@@ -1,0 +1,107 @@
+{
+  "laptop": [
+    {
+      "Title": "Dell XPS 13",
+      "Price": "89999",
+      "Image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9320/media-gallery/xs9320t-cnb-00055rf110-sh.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402",
+      "Specs": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "13.4-inch 4K"
+      }
+    },
+    {
+      "Title": "MacBook Pro",
+      "Price": "129999",
+      "Image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202206?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1664497359481",
+      "Specs": {
+        "Processor": "M1 Pro",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "14-inch Retina"
+      }
+    },
+    {
+      "Title": "Lenovo ThinkPad X1",
+      "Price": "94999",
+      "Image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-14-intel-hero.png?context=bWFzdGVyfHJvb3R8MjM1NTEwfGltYWdlL3BuZ3xoOTgvaGQ5LzExNjU5MTYxNjk0MjM4LnBuZ3wzZjU2ZGNkOTk3MzhhZjhlNTViYjdkYjk3ZjkzYmJjYzBhNzNjZDY2ZjZhZjJmNzY3ZjIzYTNlODhkZGU1Zjg5",
+      "Specs": {
+        "Processor": "Intel Core i5",
+        "RAM": "16GB",
+        "Storage": "256GB SSD",
+        "Display": "14-inch FHD"
+      }
+    }
+  ],
+  "mobile": [
+    {
+      "Title": "iPhone 13",
+      "Price": "69999",
+      "Image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-blue?wid=5000&hei=5000&fmt=p-jpg&qlt=95&.v=1656712888128",
+      "Specs": {
+        "Processor": "A15 Bionic",
+        "Storage": "128GB",
+        "Camera": "12MP Dual",
+        "Display": "6.1-inch OLED"
+      }
+    },
+    {
+      "Title": "Samsung S21",
+      "Price": "59999",
+      "Image": "https://images.samsung.com/is/image/samsung/p6pim/in/galaxy-s21/gallery/in-galaxy-s21-5g-g991-sm-g991bzsdinu-thumb-368338803",
+      "Specs": {
+        "Processor": "Snapdragon 888",
+        "Storage": "256GB",
+        "Camera": "64MP Triple",
+        "Display": "6.2-inch AMOLED"
+      }
+    },
+    {
+      "Title": "OnePlus 9",
+      "Price": "49999",
+      "Image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Wintermist_1.png",
+      "Specs": {
+        "Processor": "Snapdragon 888",
+        "Storage": "128GB",
+        "Camera": "48MP Triple",
+        "Display": "6.55-inch AMOLED"
+      }
+    }
+  ],
+  "washingmachine": [
+    {
+      "Title": "LG Front Load",
+      "Price": "35999",
+      "Image": "https://www.lg.com/in/images/washing-machines/md07540884/gallery/FHM1065SDW-Washing-Machines-Front-View-D-01.jpg",
+      "Specs": {
+        "Capacity": "8 KG",
+        "Type": "Front Load",
+        "Energy Rating": "5 Star",
+        "RPM": "1200"
+      }
+    },
+    {
+      "Title": "Samsung Top Load",
+      "Price": "28999",
+      "Image": "https://images.samsung.com/is/image/samsung/in-top-loading-wa65a4002vs-tl-wa65a4002vstl-rperspectivesilver-thumb-231531262",
+      "Specs": {
+        "Capacity": "6.5 KG",
+        "Type": "Top Load",
+        "Energy Rating": "4 Star",
+        "RPM": "700"
+      }
+    },
+    {
+      "Title": "IFB Front Load",
+      "Price": "32999",
+      "Image": "https://www.ifbappliances.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/e/senorita-wx-1.jpg",
+      "Specs": {
+        "Capacity": "7 KG",
+        "Type": "Front Load",
+        "Energy Rating": "5 Star",
+        "RPM": "1000"
+      }
+    }
+  ]
+}
