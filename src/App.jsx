@@ -52,7 +52,7 @@ function App() {
       ? Math.round(((originalPrice - currentPrice) / originalPrice) * 100)
       : null;
 
-    // Extract additional offers from Text field
+    
     const textLines = product.Text?.split('\n') || [];
     const exchangeOffer = textLines.find(line => line.includes('Exchange'))?.trim();
     const comboOffer = textLines.find(line => line.includes('combo'))?.trim();
@@ -127,7 +127,7 @@ function App() {
               ) : (
                 <>
                   <header>
-                    <h1>Price Comparison</h1>
+                    <h1> PRODUCT LIST </h1>
                     <div className="category-buttons">
                       <button 
                         className={selectedCategory === 'laptop' ? 'active' : ''} 
